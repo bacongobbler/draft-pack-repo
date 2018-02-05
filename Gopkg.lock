@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/Azure/draft"
   packages = ["pkg/draft/draftpath","pkg/draft/pack/repo","pkg/draft/pack/repo/installer","pkg/osutil","pkg/plugin","pkg/plugin/installer","pkg/version"]
-  revision = "6a6b387d84cc7530b45bfff704bd1d71e36082ed"
-  version = "v0.9.0"
+  revision = "486291360aeffa2fe0a131fbf0b4f3c601056b16"
+  version = "v0.10.1"
 
 [[projects]]
   name = "github.com/Masterminds/semver"
@@ -47,13 +47,13 @@
   branch = "master"
   name = "golang.org/x/crypto"
   packages = ["ssh/terminal"]
-  revision = "95a4943f35d008beabde8c11e5075a1b714e6419"
+  revision = "1875d0a70c90e57f11972aefd42276df65e895b9"
 
 [[projects]]
   branch = "master"
   name = "golang.org/x/sys"
   packages = ["unix","windows"]
-  revision = "83801418e1b59fb1880e363299581ee543af32ca"
+  revision = "37707fdb30a5b38865cfb95e5aab41707daec7fd"
 
 [[projects]]
   name = "k8s.io/helm"
